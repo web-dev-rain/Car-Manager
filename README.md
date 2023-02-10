@@ -6,7 +6,6 @@ cd .. - go up to the directory cd "My Folder" - go to the internal directory wit
 
 Run the "npm i" command to install the necessary modules
 Run the "npm start" command to start the server
-/* ----------------------------------------------------------- */
 
 Установить Node.js и перезагрузить IDE
 Перейти в папку 'server' проекта в консоли (используя cmd либо WS Terminal) d: - перейти на диск D dir: - показать вложенные директории
